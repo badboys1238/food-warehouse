@@ -7,10 +7,18 @@ body {
 }
 h1 {
   font-size: 65px;
+  text-align: justify;
+}
+h2 {
+  margin: 50px;
+  font-size: 40px;
 }
 .flex-container {
   display: flex;
   margin-bottom: 100px;
+}
+.down-text {
+  text-align: justify;
 }
 .half-width {
   width: 50%;
@@ -21,6 +29,16 @@ h1 {
 }
 .half-width p {
   margin: 50px;
+}
+.us-button {
+  margin: 50px;
+}
+.about-us {
+  background-image: url(images/Frame\ 59.jpg);
+  background-repeat: no-repeat;
+}
+.backham-img {
+  width: 30%;
 }
 .half-width img {
   width: 80%;
