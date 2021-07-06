@@ -1,0 +1,35 @@
+body {
+  font-family: "Otomanopee One", sans-serif;
+  margin: 0%;
+}
+.name-color {
+  color: rgb(252, 29, 215);
+}
+h1 {
+  font-size: 65px;
+}
+.flex-container {
+  display: flex;
+  margin-bottom: 100px;
+}
+.half-width {
+  width: 50%;
+  padding-left: 5%;
+}
+.half-width h1 {
+  margin: 50px;
+}
+.half-width p {
+  margin: 50px;
+}
+.half-width img {
+  width: 80%;
+  height: 90%;
+}
+.color-button {
+  text-decoration: none;
+  background-image: linear-gradient(rgb(253, 0, 253), rgb(247, 123, 230));
+  padding: 10px 40px;
+  color: white;
+  border-radius: 5px;
+}
