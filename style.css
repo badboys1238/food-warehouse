@@ -50,3 +50,42 @@ h2 {
   color: white;
   border-radius: 5px;
 }
+.new-area {
+  text-align: center;
+  margin: 100px;
+}
+.pic-item {
+  width: 50%;
+  margin-left: 120px;
+  margin-right: 120px;
+  border-radius: 5%;
+}
+
+#food-part {
+  box-shadow: 10px 15px 50px gray;
+  width: 50%;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding: 25px;
+  border-radius: 30px;
+}
+.new-part {
+  box-shadow: 10px 15px 50px gray;
+  margin-left: 120px;
+  border-radius: 40px;
+  margin-right: 120px;
+  text-align: center;
+}
+.end-item {
+  text-align: center;
+  background-color: black;
+}
+.end-item h2 {
+  color: white;
+}
+.end-item p {
+  color: white;
+}
+footer {
+  color: white;
+}
